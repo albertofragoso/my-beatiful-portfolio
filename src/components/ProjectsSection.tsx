@@ -67,7 +67,7 @@ export function ProjectsSection() {
             target="_blank"
             href="https://www.linkedin.com/in/albertofragoso/"
           >
-            Check My Linkedin <ArrowRight size={16} />
+            Mira mi Linkedin <ArrowRight size={16} />
           </a>
         </div>
       </div>
