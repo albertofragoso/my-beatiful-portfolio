@@ -33,7 +33,7 @@ export function ThemeToggle() {
     <button
       onClick={handleToogleTheme}
       className={cn(
-        "fixed max-sm:hidden max-md:top-5 top-3 right-5 z-50 p-2 rounded-full transition-colors duration-300",
+        "fixed max-xs:hidden max-md:top-5 top-3 right-5 z-50 p-2 rounded-full transition-colors duration-300",
         "focus:outline-hidden"
       )}
     >

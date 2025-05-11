@@ -7,11 +7,7 @@ export function Navbar() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
   return (
-    <nav
-      className={
-        "fixed w-full z-40 transition-all duration-300 pr-12 py-5 bg-background/80 backdrop-blur-md shadow-xs"
-      }
-    >
+    <nav className={"fixed w-full z-40 transition-all duration-300 pr-12 py-5"}>
       <div className="container flex items-center justify-between">
         <a
           className="text-xl font-bold text-primary flex items-center"
